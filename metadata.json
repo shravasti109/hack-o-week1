@@ -1,0 +1,5 @@
+{
+  "name": "Institute FAQ NLP Chatbot Lab",
+  "description": "An educational assignment-focused chatbot that demonstrates text preprocessing, tokenization, TF-IDF retrieval, and intent classification for institute FAQs.",
+  "requestFramePermissions": []
+}
